@@ -5,7 +5,7 @@ SCSS library for CSS animations
 *
 * Task: Build a dedicated css library utilising the css animate function to prebuild popular animation effects.
 *
-* Created By: Martin Cranfield & Johnathan Lee
+* Created By: Martin Cranfield & Jonathan Lee
 * Created Date: 29.03.2017
 * Last Updated: 29.03.2017
 *
